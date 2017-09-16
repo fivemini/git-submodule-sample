@@ -1,0 +1,4 @@
+[submodule "br1"]
+	path = br1
+	url = git://github.com/fivemini/git-submodule-sample.git
+	branch = br1
